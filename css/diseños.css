@@ -1,31 +1,12 @@
-header{
-    color:cornsilk;
-    font-size: 20px;
-    background-color: rgb(41, 16, 110);
-    padding-left: 35%;
-    padding-top: 20px ;
-    padding-bottom: 20px;
+.colorfondo{
+    background-color: #E5B8F4;
 }
-img{
-    width: 200px; height: 200px;
-    border-radius: 50%;
+.colortitulo{
+    background-color: #2D033B;
 }
-
-
-nav{
-    color:rgb(241, 243, 246);
-    font-size: 20px;
-    padding: 25px;
-    background-color: cornflowerblue;
+.colorcard{
+    background-color: #C147E9;
 }
-section{
-    background-color: #3282b8;
-    display: flex;
-    padding: 20px;
-}
-.columna1{
-    
-    width: 25%;
-    padding: 30px;
-    font-size: 20px;
+.letra{
+    font-weight:normal;
 }
